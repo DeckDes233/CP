@@ -1,0 +1,10 @@
+name: CommandPlusPlus
+version: ${project.version}
+main: pers.deckdes.plugin.commandplus.CommandPlus
+api-version: 1.17
+authors: [ DeckDes ]
+description: CommandPlusPlus
+
+commands:
+  cp:
+    description: COMMANDSPLUS
